@@ -1,2 +1,2 @@
-# Rental-Homepage.github.io
-Hello
+# www.ホームページ.ml
+ホームページの場所を貸し出してます。
